@@ -19,8 +19,8 @@
 ---
 
 ### Submitting:
+- This task should not take you more than 2 hours to implement;
 - Create your own repository and add your code there;
-- This task should not take you more than 3 hours to implement;
 - When you are done, send us a link to the repository where you added your solution, so we can check it out;
 - If you get stuck at some point, send what you did up to that point, and we will look at it;
 
