@@ -1,5 +1,5 @@
 ## 2022 ThemeIsle WordPress developer internship test 
-![ThemeIsle front-end internship](https://img.shields.io/badge/ThemeIsle-Front--end%20Internship-red?style=flat-square&link=https://themeisle.com)
+![ThemeIsle WP internship](https://img.shields.io/badge/ThemeIsle-WP--dev%20Internship-red?style=flat-square&link=https://themeisle.com)
 ![Use React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
 ![Use JS](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
 ![Use CSS](https://img.shields.io/badge/CSS/SCSS-181717?style=flat-square&logo=css3)
